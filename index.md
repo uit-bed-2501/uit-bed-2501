@@ -8,7 +8,7 @@ Informasjon om eksamen og prosjektet, samt frister og ressurser, finner dere ogs
 - [Eksamen og informasjon om vurdering](eksamen.html){:target="blank"}   
 
 
-[Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=BED-1304%2C1&type=course&sem=25h&campus=&hide_old=0){:target="blank"} for faget på UiT sine sider.
+[Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id=BED-1504%2C1&type=course&sem=25h&campus=&hide_old=0){:target="blank"} for faget på UiT sine sider.
 
 
 ## Kursbeskrivelse 
@@ -17,7 +17,7 @@ Python er verdens nest mest brukte programmeringsspråk i følge GitHub. Språke
 For mer informasjon om kurset, se UiT sin [læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/874303/bed-1304?ar=2025&semester=H) av kurset.
 
 ## Faglærerinfo  
-- [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163) (fagansvarlig, og foreleser i Tromsø)
+- [Stig Uteng](https://uit.no/ansatte/stig.uteng) (fagansvarlig, og foreleser i Tromsø)
 
 I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Markus Aase. 
 
@@ -25,7 +25,8 @@ I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål he
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
 
 ## Pensum
-I BED-1304 *Python-lab* har vi ingen bok, men vi har følgende pensum:
+I BED-1504 *Python-lab* :
+* Python Crash Course (Se Canvas)
 * Forelesninger, og forelesningsnotater (Jupyter Notebooks).
 
 ## Kunngjøringer  
